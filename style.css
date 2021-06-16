@@ -1,0 +1,44 @@
+h1{
+    color:red
+}
+*{
+    border:solid
+}
+.header{
+    display:flex;
+    background-color: green;
+    justify-content: center;
+}
+.tsre{
+    display:flex;
+    background-color: yellow;
+    justify-content: space-between;
+    
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.fghd{
+    margin-left: 250px;
+    padding-left: 30px;
+    width:100px;
+    height:50px;
+    font-size:25px ;
+}
+.lkjh{
+
+    margin-right: 250px;
+    padding-right: 30px;
+    width:100px;
+    height:50px;
+    font-size: 25px;
+}
+a:link{
+    color:pink;
+}
+a:visited{
+    color:brown;
+}
